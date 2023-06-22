@@ -10,3 +10,5 @@
 - Fiber
 - Drei
 - Gsap
+- CSS
+- HTML
