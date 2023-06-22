@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Keyboard
+* source:	https://sketchfab.com/3d-models/stylized-keyboard-a9715f28ca0a411bb44747a89ca0ef42
+* author:	Begle (https://sketchfab.com/begle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Keyboard" (https://sketchfab.com/3d-models/stylized-keyboard-a9715f28ca0a411bb44747a89ca0ef42) by Begle (https://sketchfab.com/begle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

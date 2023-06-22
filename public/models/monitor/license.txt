@@ -1,0 +1,11 @@
+Model Information:
+* title:	Monitor
+* source:	https://sketchfab.com/3d-models/monitor-d80755755dba4169a9605f591296f53e
+* author:	Microsoft (https://sketchfab.com/microsoft)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Monitor" (https://sketchfab.com/3d-models/monitor-d80755755dba4169a9605f591296f53e) by Microsoft (https://sketchfab.com/microsoft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
